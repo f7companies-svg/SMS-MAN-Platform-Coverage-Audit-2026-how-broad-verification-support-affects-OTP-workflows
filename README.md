@@ -1,0 +1,1 @@
+# SMS-MAN-Platform-Coverage-Audit-2026-how-broad-verification-support-affects-OTP-workflows
